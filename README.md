@@ -16,6 +16,12 @@ artist_album - таблица для связи артистов и альбом
 
 collection_song - таблица для связи сборников и песен (многие ко многим)
 
+create_data_musicsite.sql - Создание таблиц базы
+
+insert_data_musicsite.sql - Нополнение таблиц
+
+select_data_musicsite.sql - запросы
+
 **Сущности БД "Сотрудники":**
 
 department - таблица с названиями отделов
